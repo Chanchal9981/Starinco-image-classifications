@@ -1,1 +1,1 @@
-# Starinco-image-classifications
+image-classifications
